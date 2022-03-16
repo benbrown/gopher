@@ -1,9 +1,9 @@
 # Make your own Gopher!
 A super simple Gopher server that can run anywhere.
 
-1. Clone this repo or remix it on Glitch
+1. Clone this repo or remix it on Glitch. In the .env file, set the path to your folder full of gopher stuff.
 
-2. Put some Gopher files in a folder and run the server. Sample files are in public/
+2. Put some Gopher files in that folder and run the server. Sample files are in public/
 
 3. View them via a Gopher browser
 
